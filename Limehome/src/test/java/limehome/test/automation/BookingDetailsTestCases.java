@@ -32,7 +32,7 @@ public class BookingDetailsTestCases {
         driver=new ChromeDriver();
         driver.get(URL);
         driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
-      //  WebDriverWaits.implicitWait(50);
+        driver.manage().window().maximize();
         System.out.println("end of init");
 
     }
