@@ -22,5 +22,7 @@ Task #2: Writing Test Scenarios
 The test scenarios are present in the following sheet https://docs.google.com/spreadsheets/d/1v24wkcc27_xL90tUUn8qEL6QHJPnZlYnSkI-0R3HNEA/edit?usp=sharing
 
 Task #3: Defect Reporting
-I logged a sample bug in JIRA. I have attached screenshots for the same in resources folder.
+I logged a sample bug in JIRA. I have attached screenshots for the same in resources folder, please refer https://github.com/yashika0506/LimeHome/tree/master/Limehome/src/main/resources
 
+Task #4 Automation
+The scripts have been added in the folder https://github.com/yashika0506/LimeHome/tree/master/Limehome or https://github.com/yashika0506/LimeHome/tree/master/Limehome/src/test 
